@@ -9,7 +9,6 @@ print("************************************\n"
       "****                             ***\n"
       "************************************\n")
 
-print("Programdan çıkmak için Ç'ye basınız.")
 while True:
     islem = input("Faktoriyel hesaplaması yapmak istiyor musunuz? E/H")
     if(islem == "E" or islem == "e"):
