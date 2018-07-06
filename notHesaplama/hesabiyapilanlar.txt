@@ -1,0 +1,10 @@
+Fizik1-------------------->BA
+Fizik2-------------------->AB
+Matematik1-------------------->DC
+Matematik2-------------------->FF
+Proje Yönetimi-------------------->DC
+Veri Yapıları-------------------->DD
+Veri Tabanı-------------------->CC
+Programlama Temelleri-------------------->CC
+Pro Dilleri1-------------------->DC
+--------------Hesaplananlar sonu------------------

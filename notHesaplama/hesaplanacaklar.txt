@@ -1,0 +1,9 @@
+Fizik1,50,92
+Fizik2,62,100
+Matematik1,50,65
+Matematik2,15,25
+Proje Yönetimi,56,58
+Veri Yapıları,25,65
+Veri Tabanı,58,65
+Programlama Temelleri,54,65
+Pro Dilleri1,58,54
