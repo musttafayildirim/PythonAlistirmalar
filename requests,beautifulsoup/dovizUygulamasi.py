@@ -1,7 +1,8 @@
 import requests
 import sys
-birinciDoviz = input("Birinci Döviz: ")
-ikinciDoviz = input("İkinci Döviz: ")
+birinciDoviz = "EUR"
+print("Bu uygulama girilen cinsten EUR'nun karşılığı olan dövizi söyler...")
+ikinciDoviz = input("Döviz: ")
 
 miktar = float(input("Miktar: "))
 
