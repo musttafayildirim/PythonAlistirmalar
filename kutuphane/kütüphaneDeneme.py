@@ -36,7 +36,7 @@ while True:
 
         print("Kitap Sorgulanıyor..")
         time.sleep(1)
-        print("Kitap Bulundu....")
+
 
         kütüphane.kitapSorgula(isim)
 

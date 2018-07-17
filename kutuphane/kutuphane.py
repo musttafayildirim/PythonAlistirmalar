@@ -77,14 +77,13 @@ class kutuphane():
         sorgu = "insert into kitaplar values (?,?,?,?,?)"
 
         self.cursor.execute(sorgu, (Kitap.isim, Kitap.yazar, Kitap.yayınevi, Kitap.tür, Kitap.baskı))
-
         self.baglanti.commit()
 
-    def kitapSil(self,isim):
+    def kitapSil(self, isim):
 
         sorgu = "delete from kitaplar where isim = ?"
 
-        self.cursor.execute(sorgu,(isim,))
+        self.cursor.execute(sorgu, (isim,))
 
         self.baglanti.commit()
 
