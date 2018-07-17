@@ -1,0 +1,2 @@
+bu dosyanın adı deneme.txt dir
+
